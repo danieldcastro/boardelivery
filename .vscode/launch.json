@@ -6,10 +6,9 @@
     "configurations": [
         {
             "name": "boardelivery_api",
-            "cwd": "boardelivery_api",
+            "cwd": "api\\boardelivery_api",
             "request": "launch",
-            "type": "dart",
-            "program": "bin/server.dart"
+            "type": "dart"
         }
     ]
 }
